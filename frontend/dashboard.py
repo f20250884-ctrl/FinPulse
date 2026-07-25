@@ -24,7 +24,7 @@ def ai_summary(stock):
 
     return text
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://finpulse-backend-fw9p.onrender.com"
 
 st.set_page_config(page_title="FinPulse", layout="wide")
 
